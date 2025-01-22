@@ -1,0 +1,10 @@
+[gd_scene format=3 uid="uid://bfowb2ma5rdts"]
+
+[node name="Main" type="Node2D"]
+
+[node name="Label" type="Label" parent="."]
+offset_right = 1150.0
+offset_bottom = 645.0
+text = "Tree of Life"
+horizontal_alignment = 1
+vertical_alignment = 1
