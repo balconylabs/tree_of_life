@@ -1,0 +1,37 @@
+[
+	{
+		"bodyColor": "#1a7534",
+		"bodySegmentCount": 10,
+		"bodyLegCount": 3,
+	},
+	{
+		"bodyColor": "#208691",
+		"bodySegmentCount": 3,
+		"bodyLegCount": 10,
+	},
+	{
+		"bodyColor": "#208691",
+		"bodySegmentCount": 0,
+		"bodyLegCount": 10,
+	},
+	{
+		"bodyColor": "#102691",
+		"bodySegmentCount": 3,
+		"bodyLegCount": 1000,
+	},
+	{
+		"bodyColor": "#201621",
+		"bodySegmentCount": 1000,
+		"bodyLegCount": 10,
+	},
+	{
+		"bodyColor": "#804641",
+		"bodySegmentCount": 1,
+		"bodyLegCount": 3,
+	},
+	{
+		"bodyColor": "#804641",
+		"bodySegmentCount": 10,
+		"bodyLegCount": 10,
+	},
+]
