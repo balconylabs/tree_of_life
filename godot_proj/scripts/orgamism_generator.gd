@@ -22,18 +22,6 @@ func generate_random(count: int, json_path: String = "res://data/generated_organ
 	var file = FileAccess.open(json_path, FileAccess.WRITE)
 	file.store_string(JSON.stringify(organisms, "\t"))
 	
-		
-	#var json: String = "[\n"
-	#
-	#for organism in organisms:
-		#json += "\t{\n"
-		#
-		#json += "\t\t\"bodyColor\": \"#" + organism.bod 
-		#
-		#json += "\t}\n"
-		#
- 
-	
 	
 func _random_color() -> Color:
 	var r = randi() % 256 / 255.0
