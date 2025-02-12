@@ -5,7 +5,10 @@ extends Node
 func _ready() -> void:
 	var builder = OrganismBuilder.new();
 	var organisms = builder.GetOrganisms("./data/test_organisms.json");
-
+	
+	var generator = OrganismGenerator.new()
+	generator.generate_random(2)
+	
 
 # Called every frame. 'delta' is the elapsed time since the previous frame.
 func _process(delta: float) -> void:
